@@ -1,0 +1,81 @@
+.cont-box {
+    width: 1000px;
+    height: 800px;
+    background-color: grey;
+    position: relative;
+    
+}
+
+.cont-white {
+    width: 550px;
+    height: 550px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 200px;
+    padding: 0px;
+    position: absolute;
+}
+
+.cont-h {
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.cont-p1 {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.cont-in1 {
+    width: 450px;
+    height: 30px;
+    margin-left: 50px;
+    text-align: left;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.cont-p2 {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.cont-sp1 {
+    margin-left: 185px;
+}
+
+.cont-in2 {
+    width: 197px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.cont-in3 {
+    width: 450px;
+    height: 150px;
+    margin-left: 50px;
+    text-align: start;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.cont-subsend-div {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.cont-sendbtn {
+    width: 100px;
+    height: 30px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 265px;
+}
+
+.cont-sendbtn:hover {
+    cursor: pointer;
+}
